@@ -1,0 +1,52 @@
+media={ 
+ "music={
+"perfect":"https://www.youtube.com/watch?v=kPhpHvnnn0Q&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=1&pp=iAQB8AUB0gcJCYUJAYcqIYzv",
+"shape of you":"https://www.youtube.com/watch?v=Vds8ddYXYZY&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=5&pp=iAQB8AUB",
+"memories":"https://www.youtube.com/watch?v=o2DXt11SMNI&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=4&pp=iAQB8AUB",
+"attention":"https://www.youtube.com/watch?v=Oz5JDtkf1as&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=3&pp=iAQB8AUB",
+"believer":"https://www.youtube.com/watch?v=W0DM5lcj6mw&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=7&pp=iAQB8AUB",
+"photograph":"https://www.youtube.com/watch?v=HpphFd_mzXE&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=11&pp=iAQB8AUB",
+"thousand years":"https://www.youtube.com/watch?v=mk3XycambgI&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=9&pp=iAQB8AUB0gcJCYUJAYcqIYzv",
+"thunder":"https://www.youtube.com/watch?v=GtEvysh1654&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=14&pp=iAQB8AUB",
+"Friends":"https://www.youtube.com/watch?v=GtEvysh1654&list=PL735nzlwLB47cmb2kjt-lJXPYU9fZS6Ru&index=14&pp=iAQB8AUB",
+"cruel summer":"https://www.youtube.com/watch?v=ic8j13piAhQ&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=2&pp=iAQB8AUB",
+"the man":"https://www.youtube.com/watch?v=AqAJLh9wuZ0&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=3&pp=iAQB8AUB",
+"lover":"https://www.youtube.com/watch?v=-BjZmE2gtdo&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=5&pp=iAQB8AUB0gcJCYUJAYcqIYzv",
+"enchanted":"https://www.youtube.com/watch?v=igIfiqqVHtA&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=13&pp=iAQB8AUB",
+"delicate":"https://www.youtube.com/watch?v=tCXGJQYZ9JA&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=15&pp=iAQB8AUB",
+"willow":"https://www.youtube.com/watch?v=RsEZmictANA&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=25&pp=iAQB8AUB",
+"style":"https://www.youtube.com/watch?v=2JgvVfOfoWI&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=26&pp=iAQB8AUB",
+"blank space":"https://www.youtube.com/watch?v=2JgvVfOfoWI&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=26&pp=iAQB8AUB",
+"shake it off":"https://www.youtube.com/watch?v=mvVBuG4IOW4&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=29&pp=iAQB8AUB",
+"love story":"https://www.youtube.com/watch?v=8xg3vE8Ie_E&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=8&pp=iAQB8AUB",
+"anti hero":"https://www.youtube.com/watch?v=b1kbLwvqugk&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=39&pp=iAQB8AUB",
+"karma":"https://www.youtube.com/watch?v=b1kbLwvqugk&list=PLNPMW9kftjmInubQIY4CDGCUF9VY2HxaC&index=39&pp=iAQB8AUB",
+"me":"https://www.youtube.com/watch?v=FuXNumBwDOM",
+"senorita":"https://www.youtube.com/watch?v=Pkh8UtuejGw"
+}
+
+
+"programming": {
+        "python full course": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "html css crash course": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+        "javascript tutorial": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+        "mern stack": "https://www.youtube.com/watch?v=7CqJlxBYj-M",
+        "c++ full course": "https://www.youtube.com/watch?v=z9bZufPHFLU"
+    },
+    "news": {
+        "current news": "https://www.youtube.com/live/BvNYnU2FjgA?feature=share",
+        "world news": "https://www.youtube.com/live/wnYXbJ_bcLc?feature=share",
+        "tech news": "https://www.youtube.com/@TechLinked"
+    },
+    "funny": {
+        "standup comedy": "https://www.youtube.com/watch?v=vn1ZVfnpYxM",
+        "funny fails": "https://www.youtube.com/watch?v=T2zxObZ4UW0",
+        "memes": "https://www.youtube.com/watch?v=1DCXo8vBuDk"
+    },
+    "shorts": {
+        "motivation short": "https://youtube.com/shorts/1OosJzRxyFA",
+        "coding short": "https://youtube.com/shorts/dQw4w9WgXcQ",
+        "funny short": "https://youtube.com/shorts/LwkhvSRAqEc"
+    }
+}
+
